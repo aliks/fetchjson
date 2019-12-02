@@ -62,3 +62,7 @@ typings/
 
 # vs-code
 .vscode/
+
+# parcel-bundler
+.cache/
+dist/
